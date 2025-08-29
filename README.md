@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub
 
-### 💡 Motto
+### 🌟 Motto
 
 ```move
 module Soul::Craft {
@@ -14,37 +14,37 @@ module Soul::Craft {
 
 ---
 
-### 🚀 Who I Am
+### 🌟 Who I Am
 
-Hi, I’m **a builder of modern digital systems**.
+Hi, I'm **a builder of modern digital systems**.
 I love blending **blockchain**, **AI**, and **full-stack engineering** to create applications that feel natural on the surface but run on rock-solid foundations underneath.
 
 I design experiences that are:
 
-* 🌐 Intuitive on the frontend
-* 🛠️ Scalable and reliable on the backend
-* 🔒 Secure and future-ready at the core
+*  Intuitive on the frontend
+*  Scalable and reliable on the backend
+*  Secure and future-ready at the core
 
 ---
 
-### 🧰 My Toolbox
+### 🌟 My Toolbox
 
 I work across the stack, from **frontend frameworks** to **backend engines**, **databases**, and **blockchain protocols**.
 
 **Frontend & UI**
-⚡ React · Next.js · Vue · Nuxt · Angular · Flutter · Tailwind · Three.js
+ React · Next.js · Vue · Nuxt · Angular · Flutter · Tailwind · Three.js
 
 **Backend & APIs**
-🛠️ Express · Laravel · Rails · Django · Phoenix
+ Express · Laravel · Rails · Django · Phoenix
 
 **Databases**
-🗄️ MySQL · PostgreSQL · MongoDB · SQLite · Supabase
+ MySQL · PostgreSQL · MongoDB · SQLite · Supabase
 
 **Programming Languages**
-💻 JavaScript · TypeScript · PHP · Ruby · Python · Rust · Solidity
+ JavaScript · TypeScript · PHP · Ruby · Python · Rust · Solidity
 
 **Blockchain & Web3**
-🪙 NFTs · DeFi · Smart Contracts
+ NFTs · DeFi · Smart Contracts
 
 ---
 
