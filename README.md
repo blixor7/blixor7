@@ -1,5 +1,3 @@
----
-
 # 👋 Welcome to My GitHub
 
 ### 💡 Motto
@@ -57,4 +55,3 @@ I build with **precision, trust, and long term reliability**.
 
 Feel free to reach out anytime.
 
----
