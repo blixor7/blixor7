@@ -1,19 +1,33 @@
-## Hi there 👋
+## Welcome to visit My Github 👋
 
-<!--
-**blixor7/blixor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ About ME
 
-Here are some ideas to get you started:
+```move
+module Soul::Craft {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    /// A guiding light
+    const MOTTO: string =
+        "Great developers write code not for fame or fortune, 
+         but for the joy of solving problems 
+         and creating something meaningful.";
+
+    /// A reflection of my craft
+    const SUMMARY: string =
+        "I live by this truth.  
+         I shape modern, scalable worlds of code,  
+         weaving blockchain and AI into living systems.  
+         From frontends that feel like second nature,  
+         to backends that stand like stone foundations —  
+         secure, enduring, and trusted.  
+         
+         For dreamers starting out,  
+         for giants seeking to evolve,  
+         I build with precision,  
+         I build with care,  
+         I build for tomorrow.";
+}
+```
+
 <table align="center">
   <tr>
     <td align="center" width="90">
