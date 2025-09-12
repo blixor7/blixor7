@@ -8,7 +8,7 @@ module Soul::Craft {
     const MOTTO: string =
         "Great developers don’t chase fame or fortune;  
          they write code for the joy of solving problems  
-         and creating something meaningful.";
+         and creating something meaningful .";
 }
 ```
 
